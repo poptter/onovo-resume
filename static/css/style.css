@@ -175,13 +175,6 @@ hr {
 
 }
 
-.remodal-img button:hover {
-    float: right;
-    background: #607d8b;
-
-}
-
-
 body {
     background-color: lightslategray;
     font-family: sans-serif, Microsoft Yahei, Helvetica Neue;
@@ -283,14 +276,6 @@ progress::-moz-progress-value {
     margin-left: 360px;
     min-height: 100%;
     padding: 20px;
-}
-
-.info-header:hover {
-    background-color: #d4dee4;
-}
-
-.info-unit ul li:hover {
-    background-color: #d4dee4;
 }
 
 .info-header .unit-remove {
