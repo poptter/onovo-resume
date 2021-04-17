@@ -1,5 +1,3 @@
-## resume
+## Resume of Yangzhi
 
-- Yangzhi
-- +86 18788114096
-- 30957955@qq.com
+[link](https://poptter.github.io/onovo-resume/index.html)
